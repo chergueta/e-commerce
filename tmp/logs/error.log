@@ -1,0 +1,190 @@
+2016-12-26 13:28:01 Error: hola :(
+2016-12-26 19:28:57 Error: [MissingControllerException] Controller class Register.htmlController could not be found.
+Exception Attributes: array (
+  'class' => 'Register.htmlController',
+  'plugin' => NULL,
+)
+Request URL: /ecommerce/register.html
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-26 19:36:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ecommerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-26 19:37:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ecommerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-26 19:38:32 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ecommerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-26 19:39:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ecommerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-26 19:39:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ecommerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-26 19:40:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ecommerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-26 19:45:12 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ecommerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-26 19:46:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ecommerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-26 19:46:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ecommerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-26 19:49:23 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ecommerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-26 19:49:26 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ecommerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-26 19:49:57 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ecommerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-26 19:50:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ecommerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-26 19:50:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ecommerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-26 19:50:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ecommerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-26 19:50:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ecommerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-26 19:52:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ecommerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-26 19:52:45 Error: [MissingControllerException] Controller class Index.htmlController could not be found.
+Exception Attributes: array (
+  'class' => 'Index.htmlController',
+  'plugin' => NULL,
+)
+Request URL: /ecommerce/index.html
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-26 19:53:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ecommerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-26 19:53:08 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /ecommerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/ecommerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
