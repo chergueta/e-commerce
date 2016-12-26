@@ -284,7 +284,7 @@
     			<div class="container">
     			<!-- Starts -->
     				<p class="pull-left">
-    					&copy; 2016 Digi Shoppe. Designed By <a href="http://sainathchillapuram.com">Sainath Chillapuram</a>
+    					&copy; 2017. Designed By <a href="#">César Hergueta</a>
     				</p>
     			<!-- Ends -->
     			<!-- Payment Gateway Links Starts -->

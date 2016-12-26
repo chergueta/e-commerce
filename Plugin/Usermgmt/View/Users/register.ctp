@@ -1,81 +1,217 @@
-<script src='https://www.google.com/recaptcha/api.js'></script>
-
-<section id="registro">
-	<div id="registro_content">
-		<h1>Regístrate para ver <br>las Inversiones</h1>
-		<p>Antes de mostrarle nuestro portafolio de inversiones, necesitamos alguna información suya. Respetamos su privacidad y no compartiremos su información con terceros sin su consentimiento.</p>
-
-		<?php echo $this->Form->create('User', array('url' => array('action' => 'register'))); ?>
-	    <div class="form">
-	      <div class="form-group mrs" style="padding-left:0;">
-	      	<label>Título:</label>
-	        <?php echo $this->Form->input("title" ,array('type'=> 'select', 'label' => false,'div'=>false, 'class' => 'form-control', 'options'=>array('0'=>'Seleccionar','Sr'=>'Sr.','Sra'=>'Sra.')))?>
-	      </div>
-	      <div class="form-group name" style="padding-right:0;">
-	      	<label>Nombre:</label>
-	        <?php echo $this->Form->input("first_name" ,array('type'=> 'text', 'label' => false,'div'=>false, 'class' => 'form-control'))?>
-	      </div>
-	      <div class="form-group">
-	      	<label>Apellido:</label>
-	        <?php echo $this->Form->input("last_name" ,array('type'=> 'text', 'label' => false,'div'=>false, 'class' => 'form-control'))?>
-	      </div>
-	      <div class="form-group">
-	      	<label>Correo Electrónico:</label>
-	        <?php echo $this->Form->input("email" ,array('type'=> 'text', 'label' => false,'div'=>false, 'class' => 'form-control'))?>
-	      </div>
-	      <div class="form-group">
-	      	<label>Contraseña:</label>
-	        <?php echo $this->Form->input("password" ,array("type"=>"password",'label' => false,'div'=>false,'class'=>"form-control"))?>
-	      </div>
-	      <div class="form-group">
-	      	<label>Confirme su contraseña:</label>
-	        <?php echo $this->Form->input("cpassword" ,array("type"=>"password",'label' => false,'div'=>false,'class'=>"form-control"))?>
-	      </div>
-	      <div class="form-group">
-	      	<label>Pregunta de seguridad 1:</label>
-	        <?php echo $this->Form->input("question1" ,array('type'=> 'select', 'label' => false,'div'=>false, 'class' => 'form-control', 'options'=>array('0'=>'--Seleccione una pregunta de la lista--','¿Nombre de su primera mascota?'=>'¿Nombre de su primera mascota?','¿Ciudad de nacimiento de su madre?'=>'¿Ciudad de nacimiento de su madre?', '¿Cuál es su canción favorita?'=>'¿Cuál es su canción favorita?', '¿Nombre de su mejor amigo de la infancia?'=>'¿Nombre de su mejor amigo de la infancia?')))?>
-	      </div>
-	      <div class="form-group">
-	      	<label>Respuesta:</label>
-	        <?php echo $this->Form->input("answer1" ,array("type"=>"password",'label' => false,'div'=>false,'class'=>"form-control"))?>
-	      </div>
-	      <div class="form-group">
-	      	<label>Pregunta de seguridad 2:</label>
-	        <?php echo $this->Form->input("question2" ,array('type'=> 'select', 'label' => false,'div'=>false, 'class' => 'form-control', 'options'=>array('0'=>'--Seleccione una pregunta de la lista--','¿Profesión de su padre?'=>'¿Profesión de su padre?','¿Segundo nombre de su madre?'=>'¿Segundo nombre de su madre?', '¿Nombre de su padrino de matrimonio?'=>'¿Nombre de su padrino de matrimonio?', '¿Quién es su personaje histórico preferido?'=>'¿Quién es su personaje histórico preferido?')))?>
-	      </div>
-	      <div class="form-group">
-	      	<label>Respuesta:</label>
-	        <?php echo $this->Form->input("answer2" ,array("type"=>"password",'label' => false,'div'=>false,'class'=>"form-control"))?>
-	      </div>
-	      <div class="form-group">
-	      	<label>Teléfono:</label>
-	        <?php echo $this->Form->input("phone" ,array("type"=>"text",'label' => false,'div'=>false,'class'=>"form-control"))?>
-	      </div>
-	      <div class="form-group">
-	      	<label>País de residencia:</label>
-	        <?php echo $this->Form->input("country" ,array('type'=> 'select', 'label' => false,'div'=>false, 'class' => 'form-control', 'options'=>array('0'=>'Seleccionar','AF'=>'Afganistán','AL'=>'Albania','DE'=>'Alemania','AD'=>'Andorra','AO'=>'Angola','AI'=>'Anguilla','AQ'=>'Antártida','AG'=>'Antigua y Barbuda','AN'=>'Antillas Holandesas','SA'=>'Arabia Saudí','DZ'=>'Argelia','AR'=>'Argentina','AM'=>'Armenia','AW'=>'Aruba','AU'=>'Australia','AT'=>'Austria','AZ'=>'Azerbaiyán','BS'=>'Bahamas','BH'=>'Bahrein','BD'=>'Bangladesh','BB'=>'Barbados','BE'=>'Bélgica','BZ'=>'Belice','BJ'=>'Benin','BM'=>'Bermudas','BY'=>'Bielorrusia','MM'=>'Birmania','BO'=>'Bolivia','BA'=>'Bosnia y Herzegovina','BW'=>'Botswana','BR'=>'Brasil','BN'=>'Brunei','BG'=>'Bulgaria','BF'=>'Burkina Faso','BI'=>'Burundi','BT'=>'Bután','CV'=>'Cabo Verde','KH'=>'Camboya','CM'=>'Camerún','CA'=>'Canadá','TD'=>'Chad','CL'=>'Chile','CN'=>'China','CY'=>'Chipre','VA'=>'Ciudad del Vaticano (Santa Sede)','CO'=>'Colombia','KM'=>'Comores','CG'=>'Congo','CD'=>'Congo, República Democrática del','KR'=>'Corea','KP'=>'Corea del Norte','CI'=>'Costa de Marfíl','CR'=>'Costa Rica','HR'=>'Croacia (Hrvatska)','CU'=>'Cuba','DK'=>'Dinamarca','DJ'=>'Djibouti','DM'=>'Dominica','EC'=>'Ecuador','EG'=>'Egipto','SV'=>'El Salvador','AE'=>'Emiratos Árabes Unidos','ER'=>'Eritrea','SI'=>'Eslovenia','ES'=>'España','US'=>'Estados Unidos','EE'=>'Estonia','ET'=>'Etiopía','FJ'=>'Fiji','PH'=>'Filipinas','FI'=>'Finlandia','FR'=>'Francia','GA'=>'Gabón','GM'=>'Gambia','GE'=>'Georgia','GH'=>'Ghana','GI'=>'Gibraltar','GD'=>'Granada','GR'=>'Grecia','GL'=>'Groenlandia','GP'=>'Guadalupe','GU'=>'Guam','GT'=>'Guatemala','GY'=>'Guayana','GF'=>'Guayana Francesa','GN'=>'Guinea','GQ'=>'Guinea Ecuatorial','GW'=>'Guinea-Bissau','HT'=>'Haití','HN'=>'Honduras','HU'=>'Hungría','IN'=>'India','ID'=>'Indonesia','IQ'=>'Irak','IR'=>'Irán','IE'=>'Irlanda','BV'=>'Isla Bouvet','CX'=>'Isla de Christmas','IS'=>'Islandia','KY'=>'Islas Caimán','CK'=>'Islas Cook','CC'=>'Islas de Cocos o Keeling','FO'=>'Islas Faroe','HM'=>'Islas Heard y McDonald','FK'=>'Islas Malvinas','MP'=>'Islas Marianas del Norte','MH'=>'Islas Marshall','UM'=>'Islas menores de Estados Unidos','PW'=>'Islas Palau','SB'=>'Islas Salomón','SJ'=>'Islas Svalbard y Jan Mayen','TK'=>'Islas Tokelau','TC'=>'Islas Turks y Caicos','VI'=>'Islas Vírgenes (EEUU)','VG'=>'Islas Vírgenes (Reino Unido)','WF'=>'Islas Wallis y Futuna','IL'=>'Israel','IT'=>'Italia','JM'=>'Jamaica','JP'=>'Japón','JO'=>'Jordania','KZ'=>'Kazajistán','KE'=>'Kenia','KG'=>'Kirguizistán','KI'=>'Kiribati','KW'=>'Kuwait','LA'=>'Laos','LS'=>'Lesotho','LV'=>'Letonia','LB'=>'Líbano','LR'=>'Liberia','LY'=>'Libia','LI'=>'Liechtenstein','LT'=>'Lituania','LU'=>'Luxemburgo','MK'=>'Macedonia, Ex-República Yugoslava de','MG'=>'Madagascar','MY'=>'Malasia','MW'=>'Malawi','MV'=>'Maldivas','ML'=>'Malí','MT'=>'Malta','MA'=>'Marruecos','MQ'=>'Martinica','MU'=>'Mauricio','MR'=>'Mauritania','YT'=>'Mayotte','MX'=>'México','FM'=>'Micronesia','MD'=>'Moldavia','MC'=>'Mónaco','MN'=>'Mongolia','MS'=>'Montserrat','MZ'=>'Mozambique','NA'=>'Namibia','NR'=>'Nauru','NP'=>'Nepal','NI'=>'Nicaragua','NE'=>'Níger','NG'=>'Nigeria','NU'=>'Niue','NF'=>'Norfolk','NO'=>'Noruega','NC'=>'Nueva Caledonia','NZ'=>'Nueva Zelanda','OM'=>'Omán','NL'=>'Países Bajos','PA'=>'Panamá','PG'=>'Papúa Nueva Guinea','PK'=>'Paquistán','PY'=>'Paraguay','PE'=>'Perú','PN'=>'Pitcairn','PF'=>'Polinesia Francesa','PL'=>'Polonia','PT'=>'Portugal','PR'=>'Puerto Rico','QA'=>'Qatar','UK'=>'Reino Unido','CF'=>'República Centroafricana','CZ'=>'República Checa','ZA'=>'República de Sudáfrica','DO'=>'República Dominicana','SK'=>'República Eslovaca','RE'=>'Reunión','RW'=>'Ruanda','RO'=>'Rumania','RU'=>'Rusia','EH'=>'Sahara Occidental','KN'=>'Saint Kitts y Nevis','WS'=>'Samoa','AS'=>'Samoa Americana','SM'=>'San Marino','VC'=>'San Vicente y Granadinas','SH'=>'Santa Helena','LC'=>'Santa Lucía','ST'=>'Santo Tomé y Príncipe','SN'=>'Senegal','SC'=>'Seychelles','SL'=>'Sierra Leona','SG'=>'Singapur','SY'=>'Siria','SO'=>'Somalia','LK'=>'Sri Lanka','PM'=>'St Pierre y Miquelon','SZ'=>'Suazilandia','SD'=>'Sudán','SE'=>'Suecia','CH'=>'Suiza','SR'=>'Surinam','TH'=>'Tailandia','TW'=>'Taiwán','TZ'=>'Tanzania','TJ'=>'Tayikistán','TF'=>'Territorios franceses del Sur','TP'=>'Timor Oriental','TG'=>'Togo','TO'=>'Tonga','TT'=>'Trinidad y Tobago','TN'=>'Túnez','TM'=>'Turkmenistán','TR'=>'Turquía','TV'=>'Tuvalu','UA'=>'Ucrania','UG'=>'Uganda','UY'=>'Uruguay','UZ'=>'Uzbekistán','VU'=>'Vanuatu','VE'=>'Venezuela','VN'=>'Vietnam','YE'=>'Yemen','YU'=>'Yugoslavia','ZM'=>'Zambia','ZW'=>'Zimbabue')));?>
-	      </div>
-	      <div class="form-group">
-	      	<label>¿Cómo se enteró de Bricks?</label>
-	        <?php echo $this->Form->input("font" ,array('type'=> 'select', 'label' => false,'div'=>false, 'class' => 'form-control', 'options'=>array('0'=>'Seleccionar','Redes sociales'=>'Redes sociales', 'Email'=>'Email', 'Página web'=>'Página web', 'Lo refirió un amigo'=>'Lo refirió un amigo', 'Otros'=>'Otros')))?>
-	      </div>
-	      <div class="form-group" style="float:left;">
-	      	<div class="checks">
-		        <label><?php echo $this->Form->checkbox("terms", array('class'=>'checkbox'))?>
-		      	Estoy de acuerdo con Términos de uso y Política de privacidad.</label>
-		        <label><?php echo $this->Form->checkbox("declare", array('class'=>'checkbox'))?>
-		      	Declaro que los fondos que pretendo invertir son producto de actos de lícito comercio, que no son producto de narcotráfico, actividades terroristas, corrupción o cualquier acto ilícito.</label>
-		     	</div>
-	      </div>
-	      <div class="form-group" style="float:left;width:100%;">
-	      	<div class="g-recaptcha" data-sitekey="6Ld2TxoTAAAAACsMP3isGYRlNMgKz3FuETgrzhPa"></div>
-	      </div>
-	    </div>    
-	    <div class="btn_login">
-	      <button type="Submit" class="bricks_btn register_btn">
-	        Si, estoy interesado en conocer todas las inversiones
-	      </button>
-	    </div>
-	  <?php echo $this->Form->end();?> 
-	</div>
-</section>
+<!-- Registration Section Starts -->
+	<section class="registration-area">
+		<div class="row">
+			<div class="col-sm-6">
+			<!-- Registration Block Starts -->
+				<div class="panel panel-smart">
+					<div class="panel-heading">
+						<h3 class="panel-title">Personal Information</h3>
+					</div>
+					<div class="panel-body">
+					<!-- Registration Form Starts -->
+						<form class="form-horizontal" role="form">
+						<!-- Personal Information Starts -->
+							<div class="form-group">
+								<label for="inputFname" class="col-sm-3 control-label">First Name :</label>
+								<div class="col-sm-9">
+									<input type="text" class="form-control" id="inputFname" placeholder="First Name">
+								</div>
+							</div>
+							<div class="form-group">
+								<label for="inputLname" class="col-sm-3 control-label">Last Name :</label>
+								<div class="col-sm-9">
+									<input type="text" class="form-control" id="inputLname" placeholder="Last Name">
+								</div>
+							</div>
+							<div class="form-group">
+								<label for="inputEmail" class="col-sm-3 control-label">Email :</label>
+								<div class="col-sm-9">
+									<input type="email" class="form-control" id="inputEmail" placeholder="Email">
+								</div>
+							</div>
+							<div class="form-group">
+								<label for="inputPhone" class="col-sm-3 control-label">Phone :</label>
+								<div class="col-sm-9">
+									<input type="text" class="form-control" id="inputPhone" placeholder="Phone">
+								</div>
+							</div>
+							<!-- <div class="form-group">
+								<label for="inputFax" class="col-sm-3 control-label">Fax :</label>
+								<div class="col-sm-9">
+									<input type="text" class="form-control" id="inputFax" placeholder="Fax">
+								</div>
+							</div> -->
+						<!-- Personal Information Ends -->
+							<h3 class="panel-heading inner">
+								Delivery Information
+							</h3>
+						<!-- Delivery Information Starts -->
+							<div class="form-group">
+								<label for="inputCompany" class="col-sm-3 control-label">Company :</label>
+								<div class="col-sm-9">
+									<input type="text" class="form-control" id="inputCompany" placeholder="Company">
+								</div>
+							</div>
+							<div class="form-group">
+								<label for="inputCompanyId" class="col-sm-3 control-label">Company ID :</label>
+								<div class="col-sm-9">
+									<input type="text" class="form-control" id="inputCompanyId" placeholder="Company ID">
+								</div>
+							</div>
+							<div class="form-group">
+								<label for="inputAddress1" class="col-sm-3 control-label">Address/1 :</label>
+								<div class="col-sm-9">
+									<input type="text" class="form-control" id="inputAddress1" placeholder="Address/1">
+								</div>
+							</div>
+							<div class="form-group">
+								<label for="inputAddress2" class="col-sm-3 control-label">Address/2 :</label>
+								<div class="col-sm-9">
+									<input type="text" class="form-control" id="inputAddress2" placeholder="Address/2">
+								</div>
+							</div>
+							<div class="form-group">
+								<label for="inputCity" class="col-sm-3 control-label">City :</label>
+								<div class="col-sm-9">
+									<input type="text" class="form-control" id="inputCity" placeholder="City">
+								</div>
+							</div>
+							<div class="form-group">
+								<label for="inputPostCode" class="col-sm-3 control-label">Postal Code :</label>
+								<div class="col-sm-9">
+									<input type="text" class="form-control" id="inputPostCode" placeholder="Postal Code">
+								</div>
+							</div>
+							<div class="form-group">
+								<label for="inputCountry" class="col-sm-3 control-label">Country :</label>
+								<div class="col-sm-9">
+									<select class="form-control" id="inputCountry">
+										<option>- All Countries -</option>
+										<option>India</option>
+										<option>USA</option>
+										<option>UK</option>
+										<option>China</option>
+									</select>
+								</div>
+							</div>
+							<div class="form-group">
+								<label for="inputRegion" class="col-sm-3 control-label">Region :</label>
+								<div class="col-sm-9">
+									<select class="form-control" id="inputRegion">
+										<option>- All Regions -</option>
+									</select>
+								</div>
+							</div>
+						<!-- Delivery Information Ends -->
+							<h3 class="panel-heading inner">
+								Password
+							</h3>
+						<!-- Password Area Starts -->
+							<div class="form-group">
+								<label for="inputPassword" class="col-sm-3 control-label">Password :</label>
+								<div class="col-sm-9">
+									<input type="password" class="form-control" id="inputPassword" placeholder="Password">
+								</div>
+							</div>
+							<div class="form-group">
+								<label for="inputRePassword" class="col-sm-3 control-label">Re-Password :</label>
+								<div class="col-sm-9">
+									<input type="password" class="form-control" id="inputRePassword" placeholder="Re-Password">
+								</div>
+							</div>
+							<div class="form-group">
+								<span class="col-sm-3 control-label">Newsletter :</span>
+								<div class="col-sm-9">
+									<div class="radio">
+										<label>
+											<input type="radio" name="optionsRadios" id="optionsRadios1" value="option1" checked>
+											Subscribe
+										</label>
+									</div>
+									<div class="radio">
+										<label>
+											<input type="radio" name="optionsRadios" id="optionsRadios2" value="option1">
+											Unsubscribe
+										</label>
+									</div>
+								</div>
+							</div>
+							<div class="form-group">
+								<div class="col-sm-offset-3 col-sm-9">
+									<div class="checkbox">
+										<label>
+											<input type="checkbox"> I'v read and agreed on Conditions
+										</label>
+									</div>
+								</div>
+							</div>
+							<div class="form-group">
+								<div class="col-sm-offset-3 col-sm-9">
+									<button type="submit" class="btn btn-black">
+										Register
+									</button>
+								</div>
+							</div>
+						<!-- Password Area Ends -->
+						</form>
+					<!-- Registration Form Starts -->
+					</div>
+				</div>
+			<!-- Registration Block Ends -->
+			</div>
+			<div class="col-sm-6">
+			<!-- Guest Checkout Panel Starts -->
+				<div class="panel panel-smart">
+					<div class="panel-heading">
+						<h3 class="panel-title">
+							Checkout as Guest
+						</h3>
+					</div>
+					<div class="panel-body">
+						<p>
+							Checkout as a guest instead!
+						</p>
+						<button class="btn btn-black">As Guest</button>
+					</div>
+				</div>
+			<!-- Guest Checkout Panel Ends -->
+			<!-- Conditions Panel Starts -->
+				<div class="panel panel-smart">
+					<div class="panel-heading">
+						<h3 class="panel-title">
+							Conditions
+						</h3>
+					</div>
+					<div class="panel-body">
+						<p>
+							Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including  versions of Lorem Ipsum.
+						</p>
+						<ol>
+							<li>Lorem ipsum dolor sit amet</li>
+							<li>Consectetur adipiscing elit</li>
+							<li>Integer molestie lorem at massa</li>
+							<li>Facilisis in pretium nisl aliquet</li>
+							<li>Nulla volutpat aliquam velit</li>
+							<li>Faucibus porta lacus fringilla vel</li>
+							<li>Aenean sit amet erat nunc</li>
+							<li>Eget porttitor lorem</li>
+						</ol>
+						<p>
+							HTML Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris.
+						</p>
+						<p>
+							Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit. Etiam tempor. Ut ullamcorper, ligula eu tempor congue, eros est euismod turpis, id tincidunt sapien risus a quam. Maecenas fermentum consequat mi. Donec fermentum. Pellentesque malesuada nulla a mi. Duis sapien sem, aliquet nec, commodo eget, consequat quis, neque.
+						</p>
+						<p>
+							Aliquam faucibus, elit ut dictum aliquet, felis nisl adipiscing sapien, sed malesuada diam lacus eget erat. Cras mollis scelerisque nunc. Nullam arcu. Aliquam consequat. Curabitur augue lorem, dapibus quis, laoreet et, pretium ac, nisi.
+						</p>
+						<p>
+							Aenean magna nisl, mollis quis, molestie eu, feugiat in, orci. In hac habitasse platea dictumst.
+						</p>
+					</div>
+				</div>
+			<!-- Conditions Panel Ends -->
+			</div>
+		</div>
+	</section>
+<!-- Registration Section Ends -->

@@ -64,7 +64,7 @@ class UsersController extends UserMgmtAppController {
 
 		$user=$this->UserAuth->getUser();
 		$this->set('users', $this->Paginator->paginate());
-		
+
 		// if($user['User']['user_group_id']==1){
 		// 	$this->set('users', $this->Paginator->paginate());
 		// 	}else{
@@ -196,10 +196,7 @@ class UsersController extends UserMgmtAppController {
 	 * @return void
 	 */
 	public function register() {
-		$userId = $this->UserAuth->getUserId();
-		if ($userId) {
-			$this->redirect("/dashboard");
-		}
+		$this->layout = 'admin';
 		if (SITE_REGISTRATION) {
 			$userGroups=$this->UserGroup->getGroupsForRegistration();
 			$this->set('userGroups', $userGroups);
