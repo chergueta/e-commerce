@@ -2934,3 +2934,36 @@ Stack Trace:
 #1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
 #2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #3 {main}
+2016-12-29 13:11:54 Error: [MissingActionException] Action ItemsController::about.html() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'about.html',
+)
+Request URL: /e-commerce/items/about.html
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 13:12:04 Error: [MissingActionException] Action ItemsController::cart.html() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'cart.html',
+)
+Request URL: /e-commerce/items/cart.html
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 13:22:44 Error: [MissingActionException] Action ItemsController::compare.html() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'compare.html',
+)
+Request URL: /e-commerce/items/compare.html
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}

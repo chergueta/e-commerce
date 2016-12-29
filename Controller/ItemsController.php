@@ -17,6 +17,5 @@ class ItemsController extends AppController {
     $this->layout = 'default';
 
   }
-
 }
 ?>
