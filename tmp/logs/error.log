@@ -1,0 +1,2655 @@
+2016-12-29 16:02:59 Error: [MissingControllerException] Controller class Font-awesomeController could not be found.
+Exception Attributes: array (
+  'class' => 'Font-awesomeController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:05:57 Error: [MissingControllerException] Controller class Font-awesomeController could not be found.
+Exception Attributes: array (
+  'class' => 'Font-awesomeController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:05:59 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/visa.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:05:59 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/cirrus.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:05:59 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/americanexpress.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:05:59 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/paypal.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:05:59 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/mastercard.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:05:59 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/logo.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:06:00 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:06:00 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:06:00 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.svg?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:06:11 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/visa.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:06:11 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/logo.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:06:11 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/paypal.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:06:11 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:06:11 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/cirrus.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:06:11 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/americanexpress.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:06:11 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/mastercard.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:06:12 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:06:12 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.svg?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:08:20 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/paypal.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:08:20 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/logo.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:08:21 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/mastercard.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:08:21 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:08:21 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/cirrus.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:08:21 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/visa.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:08:21 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/americanexpress.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:08:21 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:08:21 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.svg?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:08:38 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/visa.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:08:38 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/logo.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:08:38 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/cirrus.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:08:38 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/paypal.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:08:38 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:08:38 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/mastercard.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:08:38 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/americanexpress.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:08:38 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:08:38 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.svg?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:08:51 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/logo.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:08:51 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/visa.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:08:51 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/mastercard.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:08:51 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/paypal.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:08:51 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/cirrus.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:08:51 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/americanexpress.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:08:51 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:08:51 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:08:51 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.svg?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:09:02 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/cirrus.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:09:02 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/visa.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:09:02 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/mastercard.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:09:02 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/paypal.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:09:02 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:09:02 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/americanexpress.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:09:02 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/logo.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:09:02 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:09:02 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.svg?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:09:16 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/mastercard.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:09:16 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/logo.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:09:16 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/paypal.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:09:16 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:09:16 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/cirrus.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:09:16 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/americanexpress.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:09:16 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/visa.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:09:17 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:09:17 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.svg?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:10:12 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/paypal.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:10:12 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/cirrus.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:10:12 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/logo.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:10:12 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/americanexpress.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:10:12 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/mastercard.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:10:12 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:10:12 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/visa.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:10:12 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:10:12 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.svg?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:10:19 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/visa.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:10:19 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/paypal.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:10:19 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/cirrus.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:10:19 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/logo.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:10:19 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:10:19 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/americanexpress.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:10:19 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/mastercard.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:10:19 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:10:19 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.svg?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:10:49 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/visa.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:10:49 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/logo.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:10:49 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/cirrus.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:10:49 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:10:49 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/paypal.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:10:49 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/mastercard.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:10:49 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/americanexpress.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:10:49 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:10:49 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.svg?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:15:01 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/cirrus.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:15:01 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/paypal.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:15:01 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/visa.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:15:01 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/americanexpress.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:15:01 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/mastercard.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:15:01 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/logo.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:15:02 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:15:02 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:15:02 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.svg?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:20:01 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/logo.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:20:01 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/americanexpress.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:20:01 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/cirrus.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:20:01 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/paypal.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:20:01 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/visa.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:20:01 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/mastercard.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:20:01 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:20:01 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:20:01 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.svg?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:21:03 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/logo.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:21:03 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/americanexpress.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:21:03 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/mastercard.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:21:04 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/visa.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:21:04 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:21:04 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/cirrus.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:21:04 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/paypal.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:21:04 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:21:04 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.svg?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:23:18 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/logo.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:23:18 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/paypal.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:23:18 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:23:18 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/mastercard.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:23:18 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/cirrus.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:23:18 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/visa.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:23:18 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/americanexpress.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:23:18 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:23:18 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.svg?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:23:35 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/visa.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:23:35 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/americanexpress.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:23:35 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/cirrus.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:23:35 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/mastercard.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:23:35 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:23:35 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/paypal.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:23:35 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/logo.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:23:36 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:23:36 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.svg?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:24:59 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/visa.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:24:59 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/logo.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:24:59 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/paypal.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:24:59 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/cirrus.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:24:59 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:24:59 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/americanexpress.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:24:59 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/mastercard.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:24:59 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:24:59 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.svg?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:26:14 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/visa.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:26:14 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/paypal.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:26:15 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/mastercard.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:26:15 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:26:15 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/cirrus.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:26:15 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/logo.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:26:15 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/americanexpress.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:26:15 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:26:15 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.svg?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:26:48 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/logo.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:26:48 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/visa.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:26:48 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/mastercard.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:26:48 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:26:48 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/americanexpress.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:26:48 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/paypal.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:26:48 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/cirrus.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:26:48 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:26:48 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.svg?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:27:27 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/logo.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:27:27 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/paypal.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:27:27 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/cirrus.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:27:27 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:27:27 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/visa.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:27:27 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/americanexpress.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:27:27 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/mastercard.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:27:27 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:27:27 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.svg?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:28:00 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/americanexpress.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:28:00 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/mastercard.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:28:00 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/visa.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:28:00 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:28:00 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/cirrus.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:28:00 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/paypal.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:28:01 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/logo.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:28:01 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:28:01 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.svg?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:28:19 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/logo.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:28:19 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/americanexpress.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:28:19 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/paypal.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:28:19 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/mastercard.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:28:19 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/visa.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:28:19 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:28:19 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/cirrus.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:28:20 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:28:20 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.svg?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:28:33 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/paypal.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:28:33 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/logo.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:28:33 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/visa.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:28:33 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:28:33 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/cirrus.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:28:33 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/mastercard.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:28:33 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/americanexpress.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:28:33 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:28:33 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.svg?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:28:56 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/logo.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:28:57 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/cirrus.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:28:57 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/paypal.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:28:57 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/americanexpress.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:28:57 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:28:57 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/visa.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:28:57 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/mastercard.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:28:57 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:28:57 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.svg?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:29:10 Error: [MissingControllerException] Controller class About.htmlController could not be found.
+Exception Attributes: array (
+  'class' => 'About.htmlController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/about.html
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:29:10 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:29:10 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:29:10 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.svg?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:30:48 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/logo.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:30:48 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/paypal.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:30:48 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/cirrus.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:30:48 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:30:48 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/visa.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:30:48 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/mastercard.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:30:48 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/americanexpress.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:30:48 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:30:48 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.svg?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:30:55 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/logo.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:30:55 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/visa.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:30:55 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/mastercard.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:30:55 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/paypal.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:30:55 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:30:55 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/cirrus.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:30:55 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/americanexpress.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:30:55 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:30:55 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.svg?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:31:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:31:54 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/visa.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:31:54 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/paypal.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:31:55 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/cirrus.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:31:55 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:31:55 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/mastercard.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:31:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:31:55 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/logo.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:31:55 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/americanexpress.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:31:55 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:31:55 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.svg?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:32:08 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/cirrus.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:32:08 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/paypal.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:32:08 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/visa.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:32:08 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/mastercard.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:32:08 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:32:08 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 10:32:08 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/logo.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 10:32:08 Error: [MissingActionException] Action ItemsController::images() could not be found.
+Exception Attributes: array (
+  'controller' => 'ItemsController',
+  'action' => 'images',
+)
+Request URL: /e-commerce/items/images/payment-icon/americanexpress.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 /Applications/XAMPP/xamppfiles/htdocs/3dlinkweb/cakephp/lib/Cake/Routing/Dispatcher.php(165): Dispatcher->_invoke(Object(ItemsController), Object(CakeRequest))
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2016-12-29 16:32:08 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:32:08 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.svg?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:33:10 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.woff?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:33:10 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:33:10 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.ttf?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:33:10 Error: [MissingControllerException] Controller class FontsController could not be found.
+Exception Attributes: array (
+  'class' => 'FontsController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/fonts/fontawesome-webfont.svg?v=4.2.0
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:33:20 Error: [MissingControllerException] Controller class Font-awesomeController could not be found.
+Exception Attributes: array (
+  'class' => 'Font-awesomeController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:33:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2016-12-29 16:33:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}

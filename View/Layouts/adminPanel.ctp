@@ -7,14 +7,14 @@
     </title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-  	<link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,300italic,400italic,700,700italic" rel="stylesheet" type="text/css">
-	  <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
-    <link href="css/responsive.css" rel="stylesheet">
 
     <?php
 	    echo $this->Html->meta('icon');
+      echo $this->Html->css('bootstrap.min');
+      echo $this->Html->css('font-awesome.min');
+      echo $this->Html->css('style');
+      echo $this->Html->css('responsive');
   	  echo $this->fetch('meta');
   	  echo $this->fetch('css');
       echo $this->fetch('script');
@@ -34,7 +34,7 @@
     				<!-- Logo Starts -->
     					<div class="col-md-3 col-sm-4 col-xs-12">
     						<a href="<?php echo $this->webroot;?>">
-    							<img src="images/logo.png" alt="Digi Shoppe" class="img-responsive logo" />
+    							<img src="<?php echo $this->webroot;?>images/logo.png" alt="Digi Shoppe" class="img-responsive logo" />
     						</a>
     					</div>
     				<!-- Logo Ends -->

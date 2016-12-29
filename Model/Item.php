@@ -1,9 +1,9 @@
 <?php
 App::uses('AppModel', 'Model');
 /**
- * Ingreso Model
+ * Balance Model
  *
  */
-class Ingreso extends AppModel {
+class Item extends AppModel {
 
 }
