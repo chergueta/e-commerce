@@ -9,9 +9,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
   	<link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,300italic,400italic,700,700italic" rel="stylesheet" type="text/css">
-	  <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
+	<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
+    <link href="css/dropzone.css" rel="stylesheet">
     <link href="css/responsive.css" rel="stylesheet">
+    <script type="text/javascript">
+        var WEBROOT = "<?php echo $this->webroot; ?>";
+    </script>
 
     <?php
 	    echo $this->Html->meta('icon');
@@ -319,6 +323,7 @@
         echo $this->Html->script('bootstrap.min');
         echo $this->Html->script('bootstrap-hover-dropdown.min');
         echo $this->Html->script('jquery.magnific-popup.min');
+        echo $this->Html->script('dropzone.js');
         echo $this->Html->script('owl.carousel.min');
         echo $this->Html->script('custom');
   ?>

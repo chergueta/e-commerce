@@ -93,6 +93,66 @@
 						</div>
 						<div class="panel-body">
 
+              <div class="col-md-6 zone-dropzone" style="margin:30px 0;">
+                <label>Imagen 1</label>
+                <div  class="dropzone"  id ="itemImg1"  name="mainFileUploader">
+                  <div  class="fallback">
+                    <input  name="file"  type="file" />
+                  </div>
+                </div>
+              </div>
+              <div id="content_imgs"></div>
+
+              <div class="col-md-6 zone-dropzone" style="margin:30px 0;">
+                <label>Imagen 2</label>
+                <div  class="dropzone"  id ="itemImg2"  name="mainFileUploader">
+                  <div  class="fallback">
+                    <input  name="file"  type="file" />
+                  </div>
+                </div>
+              </div>
+              <div id="content_imgs"></div>
+
+              <div class="col-md-6 zone-dropzone" style="margin:30px 0;">
+                <label>Imagen 3</label>
+                <div  class="dropzone"  id ="itemImg3"  name="mainFileUploader">
+                  <div  class="fallback">
+                    <input  name="file"  type="file" />
+                  </div>
+                </div>
+              </div>
+              <div id="content_imgs"></div>
+
+              <div class="col-md-6 zone-dropzone" style="margin:30px 0;">
+                <label>Imagen 4</label>
+                <div  class="dropzone"  id ="itemImg4"  name="mainFileUploader">
+                  <div  class="fallback">
+                    <input  name="file"  type="file" />
+                  </div>
+                </div>
+              </div>
+              <div id="content_imgs"></div>
+
+              <div class="col-md-6 zone-dropzone" style="margin:30px 0;">
+                <label>Imagen 5</label>
+                <div  class="dropzone"  id ="itemImg5"  name="mainFileUploader">
+                  <div  class="fallback">
+                    <input  name="file"  type="file" />
+                  </div>
+                </div>
+              </div>
+              <div id="content_imgs"></div>
+
+              <div class="col-md-6 zone-dropzone" style="margin:30px 0;">
+                <label>Imagen 6</label>
+                <div  class="dropzone"  id ="itemImg6"  name="mainFileUploader">
+                  <div  class="fallback">
+                    <input  name="file"  type="file" />
+                  </div>
+                </div>
+              </div>
+              <div id="content_imgs"></div>
+
 						</div>
 					</div>
 				<!-- Account Panel Ends -->
@@ -111,3 +171,59 @@
 	<!-- Login Form Section Ends -->
 	</div>
 <!-- Main Container Ends -->
+<script type="text/javascript">
+
+  var urlUploadFile = WEBROOT+"items/upload/1";
+
+window.onload = function() {
+  $(document).ready(function(){
+            
+                alert(urlUploadFile);
+   }); 
+
+  $("#itemImg1").dropzone({ url:urlUploadFile, maxFilesize: 10, dictDefaultMessage: '<div class="col-xs-12 text-center" style="padding-bottom:20px"><img src="<?php echo $this->webroot; ?>img/file.png" alt="" /></div><p class="dropzone-add-message">Drag and drop the files you want to upload or <a  class="add-files">click here to browse</a></p>',
+    success:function(data){
+      $('#content_imgs').append('<input type="hidden" value='+data.xhr.response+' name="data[Item][image_1]">');
+      console.log(data.xhr.response);
+    }
+  });
+
+  $("#itemImg2").dropzone({ url:urlUploadFile, maxFilesize: 10, dictDefaultMessage: '<div class="col-xs-12 text-center" style="padding-bottom:20px"><img src="<?php echo $this->webroot; ?>img/file.png" alt="" /></div><p class="dropzone-add-message">Drag and drop the files you want to upload or <a  class="add-files">click here to browse</a></p>',
+    success:function(data){
+      $('#content_imgs').append('<input type="hidden" value='+data.xhr.response+' name="data[Item][image_1]">');
+      console.log(data.xhr.response);
+    }
+  });
+
+  $("#itemImg3").dropzone({ url:urlUploadFile, maxFilesize: 10, dictDefaultMessage: '<div class="col-xs-12 text-center" style="padding-bottom:20px"><img src="<?php echo $this->webroot; ?>img/file.png" alt="" /></div><p class="dropzone-add-message">Drag and drop the files you want to upload or <a  class="add-files">click here to browse</a></p>',
+    success:function(data){
+      $('#content_imgs').append('<input type="hidden" value='+data.xhr.response+' name="data[Item][image_1]">');
+      console.log(data.xhr.response);
+    }
+  });
+
+  $("#itemImg4").dropzone({ url:urlUploadFile, maxFilesize: 10, dictDefaultMessage: '<div class="col-xs-12 text-center" style="padding-bottom:20px"><img src="<?php echo $this->webroot; ?>img/file.png" alt="" /></div><p class="dropzone-add-message">Drag and drop the files you want to upload or <a  class="add-files">click here to browse</a></p>',
+    success:function(data){
+      $('#content_imgs').append('<input type="hidden" value='+data.xhr.response+' name="data[Item][image_1]">');
+      console.log(data.xhr.response);
+    }
+  });
+
+  $("#itemImg5").dropzone({ url:urlUploadFile, maxFilesize: 10, dictDefaultMessage: '<div class="col-xs-12 text-center" style="padding-bottom:20px"><img src="<?php echo $this->webroot; ?>img/file.png" alt="" /></div><p class="dropzone-add-message">Drag and drop the files you want to upload or <a  class="add-files">click here to browse</a></p>',
+    success:function(data){
+      $('#content_imgs').append('<input type="hidden" value='+data.xhr.response+' name="data[Item][image_1]">');
+      console.log(data.xhr.response);
+    }
+  });
+
+  $("#itemImg6").dropzone({ url:urlUploadFile, maxFilesize: 10, dictDefaultMessage: '<div class="col-xs-12 text-center" style="padding-bottom:20px"><img src="<?php echo $this->webroot; ?>img/file.png" alt="" /></div><p class="dropzone-add-message">Drag and drop the files you want to upload or <a  class="add-files">click here to browse</a></p>',
+    success:function(data){
+      $('#content_imgs').append('<input type="hidden" value='+data.xhr.response+' name="data[Item][image_1]">');
+      console.log(data.xhr.response);
+    }
+  });
+}
+  
+   
+
+</script>

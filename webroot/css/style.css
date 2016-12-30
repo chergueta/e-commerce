@@ -1428,3 +1428,14 @@ hr{
 		 -o-transition: all 0.3s ease-out;
 			transition: all 0.3s ease-out;
 }	
+
+/*modified by Alirio*/
+
+
+.zone-dropzone{
+  background: #f6f6f6;
+  border-radius: 4px;
+  border: 1px solid #cacaca;
+  padding: 24px 79px;
+  margin-bottom: 30px;
+}
