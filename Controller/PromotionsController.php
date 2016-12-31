@@ -3,7 +3,7 @@
 App::uses('AppController', 'Controller');
 
 class ItemsController extends AppController {
-  public $uses = array('Item');
+  public $uses = array('Promotion');
 
   public function index(){
     $this->layout = 'default';

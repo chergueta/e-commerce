@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 30-12-2016 a las 20:55:12
+-- Tiempo de generación: 31-12-2016 a las 02:11:00
 -- Versión del servidor: 10.1.16-MariaDB
 -- Versión de PHP: 5.6.24
 
@@ -19,6 +19,19 @@ SET time_zone = "+00:00";
 --
 -- Base de datos: `e-commerce`
 --
+
+-- --------------------------------------------------------
+
+--
+-- Estructura de tabla para la tabla `brands`
+--
+
+CREATE TABLE `brands` (
+  `id` int(10) NOT NULL,
+  `name` varchar(255) COLLATE utf8_bin NOT NULL,
+  `description` text COLLATE utf8_bin NOT NULL,
+  `image` varchar(255) COLLATE utf8_bin NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
 
 -- --------------------------------------------------------
 
@@ -75,7 +88,8 @@ CREATE TABLE `models` (
   `id` int(10) NOT NULL,
   `name` varchar(255) COLLATE utf8_bin NOT NULL,
   `description` text COLLATE utf8_bin NOT NULL,
-  `trademark_id` int(10) NOT NULL
+  `brand_id` int(10) NOT NULL,
+  `year` varchar(10) COLLATE utf8_bin NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
 
 -- --------------------------------------------------------
@@ -85,18 +99,6 @@ CREATE TABLE `models` (
 --
 
 CREATE TABLE `promotions` (
-  `id` int(10) NOT NULL,
-  `name` varchar(255) COLLATE utf8_bin NOT NULL,
-  `description` text COLLATE utf8_bin NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
-
--- --------------------------------------------------------
-
---
--- Estructura de tabla para la tabla `trademarks`
---
-
-CREATE TABLE `trademarks` (
   `id` int(10) NOT NULL,
   `name` varchar(255) COLLATE utf8_bin NOT NULL,
   `description` text COLLATE utf8_bin NOT NULL
@@ -263,6 +265,12 @@ INSERT INTO `user_group_permissions` (`id`, `user_group_id`, `controller`, `acti
 --
 
 --
+-- Indices de la tabla `brands`
+--
+ALTER TABLE `brands`
+  ADD PRIMARY KEY (`id`);
+
+--
 -- Indices de la tabla `items`
 --
 ALTER TABLE `items`
@@ -284,12 +292,6 @@ ALTER TABLE `models`
 -- Indices de la tabla `promotions`
 --
 ALTER TABLE `promotions`
-  ADD PRIMARY KEY (`id`);
-
---
--- Indices de la tabla `trademarks`
---
-ALTER TABLE `trademarks`
   ADD PRIMARY KEY (`id`);
 
 --
@@ -318,6 +320,11 @@ ALTER TABLE `user_group_permissions`
 --
 
 --
+-- AUTO_INCREMENT de la tabla `brands`
+--
+ALTER TABLE `brands`
+  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT;
+--
 -- AUTO_INCREMENT de la tabla `items`
 --
 ALTER TABLE `items`
@@ -336,11 +343,6 @@ ALTER TABLE `models`
 -- AUTO_INCREMENT de la tabla `promotions`
 --
 ALTER TABLE `promotions`
-  MODIFY `id` int(10) NOT NULL AUTO_INCREMENT;
---
--- AUTO_INCREMENT de la tabla `trademarks`
---
-ALTER TABLE `trademarks`
   MODIFY `id` int(10) NOT NULL AUTO_INCREMENT;
 --
 -- AUTO_INCREMENT de la tabla `users`
