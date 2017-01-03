@@ -1,7 +1,7 @@
 <div class="main-container container">
 <!-- Main Heading Starts -->
   <h2 class="main-heading text-center">
-    Modelos
+    Marcas
   </h2>
   <div class="table-responsive compare-table">
 		<table class="table table-bordered">

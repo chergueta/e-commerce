@@ -1537,3 +1537,51 @@ Stack Trace:
 
 )
 
+2017-01-03 11:06:48 Error: Fatal Error (1): Class 'AppModel' not found in [/Applications/XAMPP/xamppfiles/htdocs/e-commerce/Model/Model.php, line 7]
+2017-01-03 11:06:48 Error: [FatalErrorException] Class 'AppModel' not found
+Request URL: /e-commerce/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'AppModel...', '/Applications/X...', 7)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'AppModel...', '/Applications/X...', 7, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/cakephp/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'AppModel...', '/Applications/X...', 7, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/cakephp/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-03 11:08:12 Error: Fatal Error (1): Class 'AppModel' not found in [/Applications/XAMPP/xamppfiles/htdocs/e-commerce/Model/Model.php, line 7]
+2017-01-03 11:08:12 Error: [FatalErrorException] Class 'AppModel' not found
+Request URL: /e-commerce/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'AppModel...', '/Applications/X...', 7)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'AppModel...', '/Applications/X...', 7, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/cakephp/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'AppModel...', '/Applications/X...', 7, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/cakephp/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-03 11:09:32 Error: Fatal Error (1): Class 'AppModel' not found in [/Applications/XAMPP/xamppfiles/htdocs/e-commerce/Model/Model.php, line 7]
+2017-01-03 11:09:32 Error: [FatalErrorException] Class 'AppModel' not found
+Request URL: /e-commerce/
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/cakephp/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'AppModel...', '/Applications/X...', 7)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'AppModel...', '/Applications/X...', 7, Array)
+#2 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/cakephp/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'AppModel...', '/Applications/X...', 7, Array)
+#3 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/cakephp/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-03 17:11:46 Error: [MissingControllerException] Controller class Font-awesomeController could not be found.
+Exception Attributes: array (
+  'class' => 'Font-awesomeController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-03 17:11:49 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/images/fav.png
+Stack Trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/e-commerce/webroot/index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
