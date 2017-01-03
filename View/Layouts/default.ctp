@@ -16,9 +16,23 @@
       echo $this->Html->css('style');
       echo $this->Html->css('responsive');
       echo $this->Html->css('dropzone');
+
+        echo $this->Html->script('jquery-1.11.1.min');
+        echo $this->Html->script('dropzone');
+        echo $this->Html->script('jquery-migrate-1.2.1.min');
+        echo $this->Html->script('bootstrap.min');
+        echo $this->Html->script('bootstrap-hover-dropdown.min');
+        echo $this->Html->script('jquery.magnific-popup.min');
+        echo $this->Html->script('owl.carousel.min');
+        echo $this->Html->script('custom');
+
+
       echo $this->fetch('meta');
       echo $this->fetch('css');
       echo $this->fetch('script');
+
+
+
     ?>
     <script type="text/javascript">
         var WEBROOT = "<?php echo $this->webroot; ?>";
@@ -317,14 +331,15 @@
     <!-- Footer Section Ends -->
     <!-- JavaScript Files -->
 
-  <?php echo $this->Html->script('jquery-1.11.1.min');
-        echo $this->Html->script('jquery-migrate-1.2.1.min');
-        echo $this->Html->script('bootstrap.min');
-        echo $this->Html->script('bootstrap-hover-dropdown.min');
-        echo $this->Html->script('jquery.magnific-popup.min');
-        echo $this->Html->script('dropzone');
-        echo $this->Html->script('owl.carousel.min');
-        echo $this->Html->script('custom');
+  <?php 
+        // echo $this->Html->script('jquery-1.11.1.min');
+        // echo $this->Html->script('dropzone');
+        // echo $this->Html->script('jquery-migrate-1.2.1.min');
+        // echo $this->Html->script('bootstrap.min');
+        // echo $this->Html->script('bootstrap-hover-dropdown.min');
+        // echo $this->Html->script('jquery.magnific-popup.min');
+        // echo $this->Html->script('owl.carousel.min');
+        // echo $this->Html->script('custom');
   ?>
   </body>
 </html>
