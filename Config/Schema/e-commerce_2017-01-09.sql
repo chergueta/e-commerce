@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.6.21)
 # Database: e-commerce
-# Generation Time: 2016-12-26 19:17:51 +0000
+# Generation Time: 2017-01-09 15:59:31 +0000
 # ************************************************************
 
 
@@ -20,11 +20,76 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 
-# Dump of table login_tokens
+# Dump of table brands
 # ------------------------------------------------------------
 
-CREATE DATABASE `e-commerce`;
+DROP TABLE IF EXISTS `brands`;
 
+CREATE TABLE `brands` (
+  `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+  `name` text COLLATE latin1_spanish_ci,
+  `description` text COLLATE latin1_spanish_ci,
+  `active` int(11) DEFAULT '1',
+  `image` text COLLATE latin1_spanish_ci,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_spanish_ci;
+
+LOCK TABLES `brands` WRITE;
+/*!40000 ALTER TABLE `brands` DISABLE KEYS */;
+
+INSERT INTO `brands` (`id`, `name`, `description`, `active`, `image`)
+VALUES
+	(3,'Apple','Compañia que odia a Microsoft y viceversa',1,'img1483904521VX9.png');
+
+/*!40000 ALTER TABLE `brands` ENABLE KEYS */;
+UNLOCK TABLES;
+
+
+# Dump of table items
+# ------------------------------------------------------------
+
+DROP TABLE IF EXISTS `items`;
+
+CREATE TABLE `items` (
+  `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+  `user_id` int(11) DEFAULT NULL,
+  `name` text,
+  `brand_id` int(11) DEFAULT NULL,
+  `model_id` int(11) DEFAULT NULL,
+  `availability` int(11) DEFAULT NULL,
+  `price` int(11) DEFAULT NULL,
+  `ex-price` int(11) DEFAULT NULL,
+  `sex` int(11) DEFAULT NULL,
+  `sale` int(11) DEFAULT NULL,
+  `description` text,
+  `stars` int(11) DEFAULT NULL,
+  `type_id` int(11) DEFAULT NULL,
+  `promo_id` int(11) DEFAULT NULL,
+  `company_id` int(11) DEFAULT NULL,
+  `image_1` text,
+  `image_2` text,
+  `image_3` text,
+  `image_4` text,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+LOCK TABLES `items` WRITE;
+/*!40000 ALTER TABLE `items` DISABLE KEYS */;
+
+INSERT INTO `items` (`id`, `user_id`, `name`, `brand_id`, `model_id`, `availability`, `price`, `ex-price`, `sex`, `sale`, `description`, `stars`, `type_id`, `promo_id`, `company_id`, `image_1`, `image_2`, `image_3`, `image_4`)
+VALUES
+	(1,1,'lentes',NULL,NULL,1,12,NULL,1,NULL,'corazón de seda',1,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+	(3,1,'lentes',NULL,NULL,0,12,NULL,1,NULL,'corazÃ³n de seda',0,NULL,NULL,NULL,'img1483300813U48.png',NULL,NULL,NULL),
+	(4,NULL,'lentes',NULL,NULL,NULL,12,NULL,1,NULL,'corazÃ³n de seda',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+	(5,NULL,'lentes',NULL,NULL,NULL,12,NULL,1,NULL,'corazÃ³n de seda',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL),
+	(6,1,'lentes',NULL,NULL,22,12,NULL,1,NULL,'corazÃ³n de seda',5,NULL,NULL,NULL,NULL,NULL,NULL,NULL);
+
+/*!40000 ALTER TABLE `items` ENABLE KEYS */;
+UNLOCK TABLES;
+
+
+# Dump of table login_tokens
+# ------------------------------------------------------------
 
 DROP TABLE IF EXISTS `login_tokens`;
 
@@ -39,6 +104,32 @@ CREATE TABLE `login_tokens` (
   PRIMARY KEY (`id`)
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8;
 
+
+
+# Dump of table brand_Models
+# ------------------------------------------------------------
+
+DROP TABLE IF EXISTS `brand_Models`;
+
+CREATE TABLE `brand_Models` (
+  `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+  `name` varchar(100) COLLATE latin1_spanish_ci DEFAULT '',
+  `description` text COLLATE latin1_spanish_ci,
+  `year` int(11) DEFAULT NULL,
+  `brand_id` int(11) DEFAULT NULL,
+  `active` int(11) DEFAULT '1',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1 COLLATE=latin1_spanish_ci;
+
+LOCK TABLES `brand_Models` WRITE;
+/*!40000 ALTER TABLE `brand_Models` DISABLE KEYS */;
+
+INSERT INTO `brand_Models` (`id`, `name`, `description`, `year`, `brand_id`, `active`)
+VALUES
+	(1,'MacBook Air','Laptop version A1112',2011,3,1);
+
+/*!40000 ALTER TABLE `brand_Models` ENABLE KEYS */;
+UNLOCK TABLES;
 
 
 # Dump of table user_group_permissions

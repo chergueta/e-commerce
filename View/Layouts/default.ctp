@@ -58,11 +58,11 @@
     				<!-- Header Top Links Starts -->
     					<div class="col-md-5 col-xs-12 hidden-sm hidden-xs">
     						<ul class="list-unstyled list-inline header-links text-center">
-    							<li><a href="index.html">Home</a></li>
+    							<li><a href="<?php echo $this->webroot;?>">Home</a></li>
     							<li><a href="#">Wish List(0)</a></li>
     							<li><a href="cart.html">Shopping Cart</a></li>
-    							<li><a href="login.html">Login</a></li>
-    							<li><a href="register.html">Register</a></li>
+    							<li><a href="<?php echo $this->webroot;?>login">Login</a></li>
+                                <li><a href="<?php echo $this->webroot;?>register">Register</a></li>
     						</ul>
     					</div>
     				<!-- Header Top Links Ends -->

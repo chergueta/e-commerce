@@ -2,22 +2,31 @@
 
 App::uses('AppController', 'Controller');
 
-class ItemsController extends AppController {
-  public $uses = array('Item');
+class BrandsController extends AppController {
+  public $uses = array('Brand');
 
   public function index(){
     $this->layout = 'default';
-    $myItems = $this->Item->find('all', array('conditions'=>array('Item.user_id' => $this->UserAuth->getUserId())));
-    $this->set('myItems', $myItems);
+    $brands = $this->Brand->find('all', array('conditions' => array('Brand.active' => 1)));
+    $this->set('brands', $brands);
 
   }
   public function create(){
     $this->layout = 'default';
     if ($this->request->is('post')) {
-      if($this->Item->save($this->request->data)){
+      $this->log($this->request->data);
+      if($this->Brand->save($this->request->data)){
         return $this->redirect(array('action' => 'index'));
       };
     }
+
+  }
+  public function delete($id = null){
+    $this->autoRender = false;
+    $brand = $this->Brand->find('first', array('conditions' => array('Brand.id' => $id)));
+    $brand['Brand']['active'] = 0;
+    $this->Brand->save($brand);
+    return json_encode(true);
 
   }
   public function view(){
@@ -68,6 +77,7 @@ class ItemsController extends AppController {
     }else{
       echo 'error';
     }
+  }
 
   function __randomStr($length) {
     $str = '';
@@ -80,7 +90,5 @@ class ItemsController extends AppController {
   
     return $str;
   }
-
-}
 }
 ?>
