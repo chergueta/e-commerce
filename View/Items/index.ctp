@@ -4,8 +4,9 @@
   <h2 class="main-heading text-center">
     Mis Items
   </h2>
-  <div class="table-responsive compare-table">
-		<table class="table table-bordered">
+  <div class="table-responsive compare-table" style="background: transparent;">
+  	<a href="items/create" style="float:right;" class="btn btn-success">Crear nuevo</a>
+		<table class="table table-bordered" style="background-color: white;">
 			<thead>
 				<tr>
 					<td>Imagen</td>

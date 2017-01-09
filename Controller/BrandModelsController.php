@@ -2,7 +2,7 @@
 
 App::uses('AppController', 'Controller');
 
-class ModelsController extends AppController {
+class BrandModelsController extends AppController {
   public $uses = array('Item','Brand', 'BrandModel');
 
   public function index(){
@@ -21,6 +21,14 @@ class ModelsController extends AppController {
         return $this->redirect(array('action' => 'index'));
       };
     }
+  }
+
+  public function delete($id = null){
+    $this->autoRender = false;
+    $brandModel = $this->BrandModel->find('first', array('conditions' => array('BrandModel.id' => $id)));
+    $brandModel['BrandModel']['active'] = 0;
+    $this->BrandModel->save($brandModel);
+    return json_encode(true);
   }
 
   public function view(){

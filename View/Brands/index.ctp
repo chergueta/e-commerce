@@ -3,9 +3,9 @@
   	<h2 class="main-heading text-center">
     	Marcas
   	</h2>
-  	<div class="table-responsive compare-table">
+  	<div class="table-responsive compare-table" style="background: transparent;">
   		<a href="brands/create" style="float:right;" class="btn btn-success">Crear nuevo</a>
-		<table class="table table-bordered">
+		<table class="table table-bordered" style="background-color: white;">
 			<thead>
 				<tr>
 					<td>Imagen</td>
@@ -18,7 +18,7 @@
 				<?php foreach ($brands as $key => $value) { ?>
 					<tr class="tr<?php echo $value['Brand']['id'];?>">
 						<td>
-							<img src="<?php echo $this->webroot.'images/'.$value['Brand']['image']; ?>" alt="image" title="image" class="img-thumbnail">
+							<img style="max-width: 100px;" src="<?php echo $this->webroot.'files/'.$value['Brand']['image']; ?>" alt="image" title="image" class="img-thumbnail">
 						</td>
 						<td class="name">
 							<?php echo $value['Brand']['name']; ?>

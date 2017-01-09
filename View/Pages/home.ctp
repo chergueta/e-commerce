@@ -24,18 +24,6 @@
 	<link href="css/style.css" rel="stylesheet">
 	<link href="css/responsive.css" rel="stylesheet">
 
-	<!--[if lt IE 9]>
-		<script src="js/ie8-responsive-file-warning.js"></script>
-	<![endif]-->
-
-	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-    <![endif]-->
-
-	<!-- Fav and touch icons -->
 	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/fav-144.png">
 	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="images/fav-114.png">
 	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/fav-72.png">
@@ -43,6 +31,12 @@
 	<link rel="shortcut icon" href="images/fav.png">
 
 </head>
+<style type="text/css">
+	.menu-panel a:hover{
+		background-color: #3498db !important;
+	}
+
+</style>
 <body>
 <!-- Header Wrap Starts -->
 	<header class="header-wrap">
@@ -104,50 +98,22 @@
 					</div>
 				<!-- Logo Ends -->
 				<!-- Header Top Links Starts -->
+				<?php if($this->Session->read('UserAuth.User.user_group_id') != 1){?>
 					<div class="col-md-5 col-xs-12 hidden-sm hidden-xs">
 						<ul class="list-unstyled list-inline header-links text-center">
-							<li><a href="<?php echo $this->webroot;?>">Home</a></li>
-							<li><a href="#">Wish List(0)</a></li>
-							<li><a href="cart.html">Shopping Cart</a></li>
-    						<li><a href="<?php echo $this->webroot;?>login">Login</a></li>
-							<li><a href="<?php echo $this->webroot;?>register">Register</a></li>
+							<li></li>	
+							<li><a href="<?php echo $this->webroot;?>">Inicio</a></li>
+							<li><a href="#">Favoritos(0)</a></li>
+							<li><a href="cart.html">Mi carrito</a></li>
+			              	<?php if(empty($this->Session->read('UserAuth'))){?>
+                    			<li><a href="<?php echo $this->webroot;?>login">Ingresar</a></li>
+                    			<li><a href="<?php echo $this->webroot;?>register">Registro</a></li>
+                  			<?php } else{ ?>
+                    			<li><a href="<?php echo $this->webroot;?>logout">Salir</a></li>
+                    			<li><a href="">Hola <?php echo $this->Session->read('UserAuth.User.first_name').' '.$this->Session->read('UserAuth.User.last_name'); ?></a></li>
+                  			<?php }?>
 						</ul>
 					</div>
-				<!-- Header Top Links Ends -->
-				<!-- Currency & Languages Starts -->
-					<div class="col-md-2 col-sm-5 col-xs-12 text-center">
-					<!-- Languages Starts -->
-						<div class="btn-group">
-							<button class="btn btn-link dropdown-toggle text-uppercase" data-toggle="dropdown">
-								Eng
-								<i class="fa fa-caret-down"></i>
-							</button>
-							<ul class="pull-right dropdown-menu">
-								<li>
-									<a tabindex="-1" href="#">English</a>
-								</li>
-								<li>
-									<a tabindex="-1" href="#">French</a>
-								</li>
-							</ul>
-						</div>
-					<!-- Languages Ends -->
-					<!-- Currency Starts -->
-						<div class="btn-group">
-							<button class="btn btn-link dropdown-toggle text-uppercase" data-toggle="dropdown">
-								$
-								<i class="fa fa-caret-down"></i>
-							</button>
-							<ul class="pull-right dropdown-menu">
-								<li><a tabindex="-1" href="#">Pound </a></li>
-								<li><a tabindex="-1" href="#">US Dollar</a></li>
-								<li><a tabindex="-1" href="#">Euro</a></li>
-							</ul>
-						</div>
-					<!-- Currency Ends -->
-					</div>
-				<!-- Currency & Languages Ends -->
-				<!-- Shopping Cart Starts -->
 					<div class="col-md-2 col-sm-3 col-xs-12">
 						<div id="cart" class="btn-group pull-right">
 							<button type="button" data-toggle="dropdown" class="btn dropdown-toggle text-uppercase">
@@ -231,8 +197,24 @@
 							</ul>
 						</div>
 					</div>
+
 				<!-- Shopping Cart Ends -->
 				</div>
+				<?php } else{?>
+		              <div class="col-md-5 col-xs-12 hidden-sm hidden-xs">
+		                <ul class="list-unstyled list-inline header-links text-center">
+		                  <li><a href="<?php echo $this->webroot;?>">Inicio</a></li>
+		                  <li><a href="<?php echo $this->webroot;?>items">Items</a></li>
+		                  <li><a href="<?php echo $this->webroot;?>brands">Marcas</a></li>
+		                  <li><a href="<?php echo $this->webroot;?>brandmodels">Modelos</a></li>
+		                  <li><a href="#">Planes</a></li>
+		                  <li><a href="#">Tiendas</a></li>
+		                  <li><a href="<?php echo $this->webroot;?>logout">Salir</a></li>
+		                </ul>
+		              </div>
+				<?php } ?>
+
+					
 			<!-- Nested Row Ends -->
 			</div>
 		<!-- Nested Container Ends -->

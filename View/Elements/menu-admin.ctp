@@ -17,30 +17,13 @@
               <div class="col-md-5 col-xs-12 hidden-sm hidden-xs">
                 <ul class="list-unstyled list-inline header-links text-center">
                   <li><a href="<?php echo $this->webroot;?>">Inicio</a></li>
-                  <li><a href="#">Favoritos(0)</a></li>
-                  <li><a href="cart.html">Mi carrito</a></li>
-                  <?php if(empty($this->Session->read('UserAuth'))){?>
-                    <li><a href="<?php echo $this->webroot;?>login">Ingresar</a></li>
-                    <li><a href="<?php echo $this->webroot;?>register">Registro</a></li>
-                  <?php } else{ ?>
-                    <li><a href="<?php echo $this->webroot;?>logout">Salir</a></li>
-                    <li><a href="<?php echo $this->webroot;?>logout">Hola <?php echo $this->Session->read('UserAuth.User.first_name').' '.$this->Session->read('UserAuth.User.last_name'); ?></a></li>
-                  <?php }?>
+                  <li><a href="<?php echo $this->webroot;?>items">Items</a></li>
+                  <li><a href="<?php echo $this->webroot;?>brands">Marcas</a></li>
+                  <li><a href="<?php echo $this->webroot;?>brandmodels">Modelos</a></li>
+                  <li><a href="#">Planes</a></li>
+                  <li><a href="#">Tiendas</a></li>
+                  <li><a href="<?php echo $this->webroot;?>logout">Salir</a></li>
                 </ul>
-              </div>
-              <div class="col-md-2 col-sm-3 col-xs-6">
-                <div id="cart" class="btn-group pull-right">
-                  <button type="button" data-toggle="dropdown" class="btn dropdown-toggle text-uppercase">
-                    <i class="fa fa-shopping-cart"></i>
-                    <span id="cart-total">0 item(s)</span>
-                    <i class="fa fa-caret-down"></i>
-                  </button>
-                  <ul class="dropdown-menu">
-                    <li>
-                      <p class="text-center">Your shopping cart is empty!</p>
-                    </li>
-                  </ul>
-                </div>
               </div>
             <!-- Shopping Cart Ends -->
             </div>

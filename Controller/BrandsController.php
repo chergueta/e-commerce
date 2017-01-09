@@ -27,8 +27,8 @@ class BrandsController extends AppController {
     $brand['Brand']['active'] = 0;
     $this->Brand->save($brand);
     return json_encode(true);
-
   }
+  
   public function view(){
     $this->layout = 'default';
 
