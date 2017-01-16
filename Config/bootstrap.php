@@ -88,8 +88,8 @@ Cache::config('default', array('engine' => 'File'));
  * ));
  */
 
- // load paypal plugin
- CakePlugin::load('Paypal');
+// load paypal plugin
+CakePlugin::load('Paypal');
 
 Configure::write('Dispatcher.filters', array(
 	'AssetDispatcher',

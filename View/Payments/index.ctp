@@ -1,5 +1,11 @@
 
 <body>
+<?php echo $this->Form->create('Payment'); ?>
+<?php echo $this->Form->input('user_id',array('div'=>false,'label'=>false,'type'=>'hidden','value'=>$this->UserAuth->getUserId())); ?>
+
+<div type="hidden" id="pago">
+	<?php echo $this->Form->input('price',array('div'=>false,'label'=>false,'type'=>'hidden','class'=>'form-control')); ?>
+</div>
 <!-- Header Wrap Ends -->
 <!-- Breadcrumb Starts -->
 	<div class="breadcrumb-wrap">
@@ -59,18 +65,13 @@
 							<a href="">15 días</a>						
 						</td>
 						<td class="text-center">
-							$150.00
+							$15.00
 						</td>
 						<td class="text-center">
-							$150.00
+							$15.00
 						</td>
 						<td class="text-center">
-							<button type="submit" title="Update" class="btn btn-default tool-tip">
-								<i class="fa fa-refresh"></i>
-							</button>
-							<button type="button" title="Remove" class="btn btn-default tool-tip">
-								<i class="fa fa-times-circle"></i>
-							</button>
+							<input type="button" title="Update" class="btn btn-default tool-tip" onClick="setPlanPayment('15.00')"></input>
 						</td>
 					</tr>
 					<tr>
@@ -86,18 +87,13 @@
 							<a href="">30 días</a>							
 						</td>
 						<td class="text-center">
-							$150.00
+							$27.00
 						</td>
 						<td class="text-center">
-							$150.00
+							$27.00
 						</td>
 						<td class="text-center">
-							<button type="submit" title="Update" class="btn btn-default tool-tip">
-								<i class="fa fa-refresh"></i>
-							</button>
-							<button type="button" title="Remove" class="btn btn-default tool-tip">
-								<i class="fa fa-times-circle"></i>
-							</button>
+							<input type="button" title="Update" class="btn btn-default tool-tip glyphicon glyphicon-ok" onClick="setPlanPayment('27.00')"></input>
 						</td>
 					</tr>
 					<tr>
@@ -113,18 +109,13 @@
 							<a href="">365 días / 1 año</a>							
 						</td>
 						<td class="text-center">
-							$150.00
+							$200.00
 						</td>
 						<td class="text-center">
-							$150.00
+							$200.00
 						</td>
 						<td class="text-center">
-							<button type="submit" title="Update" class="btn btn-default tool-tip">
-								<i class="fa fa-refresh"></i>
-							</button>
-							<button type="button" title="Remove" class="btn btn-default tool-tip">
-								<i class="fa fa-times-circle"></i>
-							</button>
+							<input type="button" title="Update" class="btn btn-default tool-tip" onClick="setPlanPayment('200.00')"></input>
 						</td>
 					</tr>									
 				</tbody>
@@ -210,7 +201,7 @@
 								<!-- <dt>Coupon Discount :</dt> -->
 <!-- 								<dd>$-25.00</dd> -->
 								<dt>Subtotal :</dt>
-								<dd>$150.00</dd>
+								<dd id="value-subtotal">$0.00</dd>
 <!-- 								<dt>Payment Fee :</dt>
 								<dd>$10.00</dd> -->
 <!-- 								<dt>Shipment Fee :</dt>
@@ -221,17 +212,16 @@
 							<hr />
 							<dl class="dl-horizontal total">
 								<dt>Total :</dt>
-								<dd>$150.00</dd>
+								<dd id="value-total">$0.00</dd>
 							</dl>
 							<hr />
 							<div class="text-uppercase clearfix">
-								<a href="#" class="btn btn-default pull-left">
-									<span class="hidden-xs">Limpiar</span>
+									<input type="button" title="Update" class="btn btn-default pull-left" onClick="return limpiarCampo()" value="Limpiar">
+									</input>
 								<!-- 	<span class="visible-xs">Confirmar Transacción</span> -->
-								</a>
-								<a href="#" class="btn btn-default pull-right">		
-									Confirmar Transacción
-								</a>
+									<input type="submit" title="Update" class="btn btn-default pull-right" value="Confirmar Transaccion">
+									<!-- <?php echo $this->Form->input('price',array('div'=>false,'label'=>false,'class'=>'form-control','type'=>'hidden')); ?> -->
+									</input>
 							</div>
 						</div>
 					</div>
@@ -254,5 +244,56 @@
 <script src="js/jquery.magnific-popup.min.js"></script>
 <script src="js/owl.carousel.min.js"></script>
 <script src="js/custom.js"></script>
+
+<script type="text/javascript">
+
+var planComprado = 0;
+
+
+function setPlanPayment(valueIn){
+	parseFloat(valueIn);
+	document.getElementById("value-total").innerHTML = "$"+valueIn;
+	document.getElementById("value-subtotal").innerHTML = "$"+valueIn;
+	$('#PaymentPrice').attr("value" , valueIn); 
+	console.log(valueIn);
+}
+	
+// function setTotalP1(){
+// 	var ElTotal = "15.00";
+// 	document.getElementById("value-total").innerHTML = "$"+ElTotal;
+// 	document.getElementById("value-subtotal").innerHTML = "$"+ElTotal;
+// //	var htmlString = '<?php echo $this->Form->input('price',array('div'=>false,'label'=>false,'class'=>'form-control')); ?>';
+// $('#PaymentPrice').attr("value" , "15"); 
+// //	document.getElementById("pago").innerHTML = htmlString;
+// 	planComprado = parseFloat(ElTotal);
+// }
+
+// function setTotalP2(){
+// 	var ElTotal = "27.00";
+// 	document.getElementById("value-total").innerHTML = "$"+ElTotal;
+// 	document.getElementById("value-subtotal").innerHTML = "$"+ElTotal;
+	
+// 	planComprado = parseFloat(ElTotal);
+// }
+// function setTotalP3(){
+// 	document.getElementById("pago").innerHTML = "";
+// 	var ElTotal = "200.00";
+// 	document.getElementById("value-total").innerHTML = "$"+ElTotal;
+// 	document.getElementById("value-subtotal").innerHTML = "$"+ElTotal;
+// 	var htmlString = '<?php echo $this->Form->input('price',array('div'=>false,'label'=>false,'class'=>'form-control')); ?>';
+// 	document.getElementById("pago").innerHTML = htmlString;
+// 	planComprado = parseFloat(ElTotal);
+// 	console.log(htmlString);
+// }
+
+// function limpiarCampo(){
+// 	document.getElementById("value-total").innerHTML = "$"+"0.00";
+// 	document.getElementById("value-subtotal").innerHTML = "$"+"0.00";
+// 	document.getElementById("pago").innerHTML = " ";
+// 	planComprado = parseFloat(0);
+// }
+
+</script>
+
 </body>
 </html>

@@ -7269,3 +7269,2478 @@ Request URL: /e-commerce/font-awesome/css/font-awesome.min.css
 Stack Trace:
 #0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2017-01-11 16:41:30 Error: [MissingControllerException] Controller class Font-awesomeController could not be found.
+Exception Attributes: array (
+  'class' => 'Font-awesomeController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-11 16:41:44 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/images/fav.png
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-11 16:41:54 Error: [MissingControllerException] Controller class Font-awesomeController could not be found.
+Exception Attributes: array (
+  'class' => 'Font-awesomeController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-11 16:41:56 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-11 16:45:36 Error: [MissingControllerException] Controller class Font-awesomeController could not be found.
+Exception Attributes: array (
+  'class' => 'Font-awesomeController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 19:47:37 Error: [MissingControllerException] Controller class Font-awesomeController could not be found.
+Exception Attributes: array (
+  'class' => 'Font-awesomeController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 19:47:40 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 19:47:48 Error: [MissingControllerException] Controller class Font-awesomeController could not be found.
+Exception Attributes: array (
+  'class' => 'Font-awesomeController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 19:47:50 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/images/fav.png
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 20:37:45 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 20:39:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 20:46:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 20:47:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 20:48:32 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 20:49:10 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 20:49:28 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 20:49:53 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 20:51:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 20:51:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 20:52:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 20:54:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 21:05:52 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 21:05:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 21:06:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 21:06:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 21:07:26 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 21:07:28 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 21:07:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 21:07:33 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 21:07:57 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 21:08:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 21:08:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 21:08:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 21:08:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 21:08:54 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 21:08:57 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 21:08:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 21:10:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 21:10:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 21:10:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 21:10:12 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 21:10:26 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-14 21:50:44 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 8]
+2017-01-14 21:50:44 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-14 21:59:57 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 8]
+2017-01-14 21:59:57 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-14 22:06:24 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 8]
+2017-01-14 22:06:24 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 16:47:26 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 8]
+2017-01-15 16:47:26 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 16:49:19 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 8]
+2017-01-15 16:49:19 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 16:49:23 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 8]
+2017-01-15 16:49:23 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 16:49:29 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 8]
+2017-01-15 16:49:29 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 16:54:36 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 8]
+2017-01-15 16:54:36 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 10:55:15 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 8]
+2017-01-15 10:55:15 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /e-commerce/items
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 10:55:15 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 8]
+2017-01-15 10:55:15 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /e-commerce/login
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 10:55:23 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 8]
+2017-01-15 10:55:23 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /e-commerce/login
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 10:55:26 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 8]
+2017-01-15 10:55:26 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /e-commerce/login
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 10:55:30 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION) in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 8]
+2017-01-15 10:55:30 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting function (T_FUNCTION)
+Request URL: /e-commerce/login
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 8, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 10:55:52 Error: Fatal Error (4): syntax error, unexpected '?>', expecting function (T_FUNCTION) in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 39]
+2017-01-15 10:55:52 Error: [FatalErrorException] syntax error, unexpected '?>', expecting function (T_FUNCTION)
+Request URL: /e-commerce/login
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 39)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 39, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 39, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 16:56:23 Error: [MissingControllerException] Controller class Font-awesomeController could not be found.
+Exception Attributes: array (
+  'class' => 'Font-awesomeController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 16:56:25 Error: [MissingControllerException] Controller class Font-awesomeController could not be found.
+Exception Attributes: array (
+  'class' => 'Font-awesomeController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 16:56:26 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/images/fav.png
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 10:56:33 Error: Fatal Error (1): Call to a member function create() on null in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 11]
+2017-01-15 10:56:33 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 11:01:45 Error: Fatal Error (1): Call to a member function create() on null in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 11]
+2017-01-15 11:01:45 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 17:13:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 17:17:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 17:17:53 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 17:18:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 17:20:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 11:20:22 Error: Fatal Error (1): Call to a member function create() on null in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 11]
+2017-01-15 11:20:22 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 17:20:23 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 17:20:39 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 11:20:43 Error: Fatal Error (1): Call to a member function create() on null in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 11]
+2017-01-15 11:20:43 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 17:20:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 17:20:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 17:21:13 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 11:21:18 Error: Fatal Error (1): Call to a member function create() on null in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 11]
+2017-01-15 11:21:18 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 17:21:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 17:21:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 17:22:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 11:22:45 Error: Fatal Error (1): Call to a member function create() on null in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 11]
+2017-01-15 11:22:45 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 17:22:46 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 17:22:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 11:29:15 Error: Fatal Error (1): Call to a member function create() on null in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 11]
+2017-01-15 11:29:15 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 17:29:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 11:29:18 Error: Fatal Error (1): Call to a member function create() on null in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 11]
+2017-01-15 11:29:18 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 17:29:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 17:29:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 17:29:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 11:29:55 Error: Fatal Error (1): Call to a member function create() on null in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 11]
+2017-01-15 11:29:55 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 17:29:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 17:35:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 17:38:15 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 11:38:17 Error: Fatal Error (1): Call to a member function create() on null in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 11]
+2017-01-15 11:38:17 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 17:38:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 17:38:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 11:39:06 Error: Fatal Error (1): Call to a member function create() on null in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 11]
+2017-01-15 11:39:06 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 17:39:06 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 17:40:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 17:40:26 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 11:40:28 Error: Fatal Error (1): Call to a member function create() on null in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 11]
+2017-01-15 11:40:28 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 17:40:28 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 17:40:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 11:42:33 Error: Fatal Error (1): Call to a member function create() on null in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 11]
+2017-01-15 11:42:33 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 17:42:34 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 17:42:53 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 11:43:28 Error: Fatal Error (1): Call to a member function create() on null in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 11]
+2017-01-15 11:43:28 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 17:43:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 17:44:40 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 17:44:42 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 17:55:40 Error: [MissingControllerException] Controller class FormularioPayment.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'FormularioPayment.phpController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/formularioPayment.php
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 17:55:41 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 17:56:44 Error: [MissingControllerException] Controller class FormularioPaymentController could not be found.
+Exception Attributes: array (
+  'class' => 'FormularioPaymentController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/formularioPayment
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 17:56:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 17:58:06 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 17:58:07 Error: [MissingControllerException] Controller class FormularioPayment.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'FormularioPayment.phpController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/formularioPayment.php
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 17:58:08 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 17:58:16 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 11:58:18 Error: [MissingActionException] Action FormularioPaymentController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'FormularioPaymentController',
+  'action' => 'index',
+)
+Request URL: /e-commerce/formularioPayment
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(FormularioPaymentController), Object(CakeRequest))
+#2 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-01-15 17:58:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 11:58:50 Error: [MissingViewException] View file "C:\xampp\htdocs\e-commerce\View\FormularioPayment\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\e-commerce\\View\\FormularioPayment\\index.ctp',
+)
+Request URL: /e-commerce/formularioPayment
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(FormularioPaymentController), Object(CakeRequest))
+#4 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-01-15 17:58:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 18:00:42 Error: [MissingControllerException] Controller class FormularioPaymentController could not be found.
+Exception Attributes: array (
+  'class' => 'FormularioPaymentController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/formularioPayment
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 18:00:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 18:00:59 Error: [MissingControllerException] Controller class FormularioPaymentController could not be found.
+Exception Attributes: array (
+  'class' => 'FormularioPaymentController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/formularioPayment
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 18:01:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 12:01:36 Error: [MissingViewException] View file "C:\xampp\htdocs\e-commerce\View\FormularioPayment\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\e-commerce\\View\\FormularioPayment\\index.ctp',
+)
+Request URL: /e-commerce/formularioPayment
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(FormularioPaymentController), Object(CakeRequest))
+#4 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-01-15 18:01:37 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 12:02:25 Error: [MissingActionException] Action FormularioPaymentController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'FormularioPaymentController',
+  'action' => 'index',
+)
+Request URL: /e-commerce/formularioPayment
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#1 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(FormularioPaymentController), Object(CakeRequest))
+#2 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2017-01-15 18:02:26 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 12:29:27 Error: [MissingViewException] View file "C:\xampp\htdocs\e-commerce\View\FormularioPayment\index.ctp" is missing.
+Exception Attributes: array (
+  'file' => 'C:\\xampp\\htdocs\\e-commerce\\View\\FormularioPayment\\index.ctp',
+)
+Request URL: /e-commerce/formularioPayment
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\View\View.php(468): View->_getViewFileName(NULL)
+#1 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Controller\Controller.php(954): View->render(NULL, NULL)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Routing\Dispatcher.php(198): Controller->render()
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(FormularioPaymentController), Object(CakeRequest))
+#4 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2017-01-15 18:29:28 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 12:33:01 Error: Fatal Error (1): Call to a member function create() on null in [C:\xampp\htdocs\e-commerce\View\FormularioPayment\index.ctp, line 1]
+2017-01-15 12:33:01 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /e-commerce/formularioPayment
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 1)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 1, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 1, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 18:33:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 12:33:42 Error: Fatal Error (1): Call to a member function create() on null in [C:\xampp\htdocs\e-commerce\View\FormularioPayment\index.ctp, line 1]
+2017-01-15 12:33:42 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /e-commerce/formularioPayment
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 1)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 1, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 1, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 18:33:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 12:33:46 Error: Fatal Error (1): Call to a member function create() on null in [C:\xampp\htdocs\e-commerce\View\FormularioPayment\index.ctp, line 1]
+2017-01-15 12:33:46 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /e-commerce/formularioPayment
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 1)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 1, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 1, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 18:33:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 18:33:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 18:33:53 Error: [MissingControllerException] Controller class FormularioPayment.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'FormularioPayment.phpController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/formularioPayment.php
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 18:33:53 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 18:34:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 18:49:03 Error: [MissingControllerException] Controller class Font-awesomeController could not be found.
+Exception Attributes: array (
+  'class' => 'Font-awesomeController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 18:49:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 18:49:05 Error: [MissingControllerException] Controller class Font-awesomeController could not be found.
+Exception Attributes: array (
+  'class' => 'Font-awesomeController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 18:49:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 18:49:11 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 12:49:15 Error: Fatal Error (1): Call to a member function create() on null in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 11]
+2017-01-15 12:49:15 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 18:49:15 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 18:49:22 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 12:49:24 Error: Fatal Error (1): Call to a member function create() on null in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 11]
+2017-01-15 12:49:24 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 18:49:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 18:49:27 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 18:50:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 18:53:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 12:53:22 Error: Fatal Error (1): Call to a member function create() on null in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 11]
+2017-01-15 12:53:22 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 18:53:23 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 18:53:59 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 18:54:02 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 12:54:07 Error: Fatal Error (1): Call to a member function create() on null in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 11]
+2017-01-15 12:54:07 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 18:54:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 18:54:11 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 18:54:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 12:54:31 Error: Fatal Error (1): Call to a member function create() on null in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 11]
+2017-01-15 12:54:31 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 18:54:32 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 18:54:34 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 18:56:19 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 18:58:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:06:32 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:10:46 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:10:48 Error: [MissingControllerException] Controller class Favicon.icoController could not be found.
+Exception Attributes: array (
+  'class' => 'Favicon.icoController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/favicon.ico
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:15:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:25:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:26:48 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:27:55 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 13:28:01 Error: Fatal Error (1): Call to a member function create() on null in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 11]
+2017-01-15 13:28:01 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 19:28:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:28:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:28:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:28:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:29:41 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 13:29:43 Error: Fatal Error (1): Call to a member function create() on null in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 11]
+2017-01-15 13:29:43 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 19:29:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:29:45 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 13:29:59 Error: Fatal Error (1): Call to a member function create() on null in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 11]
+2017-01-15 13:29:59 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 13:30:34 Error: Fatal Error (1): Call to a member function create() on null in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 11]
+2017-01-15 13:30:34 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 19:30:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 13:31:00 Error: Fatal Error (1): Call to a member function create() on null in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 11]
+2017-01-15 13:31:00 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 19:31:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:32:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:32:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 13:32:51 Error: Fatal Error (1): Call to a member function create() on null in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 11]
+2017-01-15 13:32:51 Error: [FatalErrorException] Call to a member function create() on null
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', 'C:\\xampp\\htdocs...', 11, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 19:32:51 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:33:52 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:33:54 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:33:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:34:27 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 13:34:31 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'price' cannot be null
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('INSERT INTO `e-...', Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Model\Datasource\DboSource.php(1012): DboSource->execute('INSERT INTO `e-...')
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Model\Model.php(1854): DboSource->create(Object(Payment), Array, Array)
+#4 C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php(12): Model->save(Array)
+#5 [internal function]: PaymentsController->index()
+#6 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PaymentsController), Array)
+#7 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(PaymentsController), Object(CakeRequest))
+#9 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2017-01-15 19:34:31 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:36:50 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:36:52 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:37:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:38:29 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:38:42 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:39:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 13:39:34 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'price' cannot be null
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('INSERT INTO `e-...', Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Model\Datasource\DboSource.php(1012): DboSource->execute('INSERT INTO `e-...')
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Model\Model.php(1854): DboSource->create(Object(Payment), Array, Array)
+#4 C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php(12): Model->save(Array)
+#5 [internal function]: PaymentsController->index()
+#6 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PaymentsController), Array)
+#7 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(PaymentsController), Object(CakeRequest))
+#9 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2017-01-15 19:39:34 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:44:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:44:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:45:08 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:46:40 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:47:00 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 13:47:43 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'price' cannot be null
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('INSERT INTO `e-...', Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Model\Datasource\DboSource.php(1012): DboSource->execute('INSERT INTO `e-...')
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Model\Model.php(1854): DboSource->create(Object(Payment), Array, Array)
+#4 C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php(12): Model->save(Array)
+#5 [internal function]: PaymentsController->index()
+#6 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PaymentsController), Array)
+#7 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(PaymentsController), Object(CakeRequest))
+#9 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2017-01-15 19:47:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:48:02 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:48:06 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:49:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:49:35 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 19:50:26 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 15:21:14 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php, line 565]
+2017-01-15 15:21:14 Error: [FatalErrorException] Maximum execution time of 30 seconds exceeded
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Maximum executi...', 'C:\\xampp\\htdocs...', 565)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', 'C:\\xampp\\htdocs...', 565, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', 'C:\\xampp\\htdocs...', 565, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 15:21:20 Error: Fatal Error (1): Maximum execution time of 30 seconds exceeded in [C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Model\Model.php, line 21]
+2017-01-15 15:21:20 Error: [FatalErrorException] Maximum execution time of 30 seconds exceeded
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Maximum executi...', 'C:\\xampp\\htdocs...', 21)
+#1 [internal function]: ErrorHandler::handleError(1, 'Maximum executi...', 'C:\\xampp\\htdocs...', 21, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Maximum executi...', 'C:\\xampp\\htdocs...', 21, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 21:21:46 Error: [MissingControllerException] Controller class Font-awesomeController could not be found.
+Exception Attributes: array (
+  'class' => 'Font-awesomeController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 21:21:54 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 21:22:03 Error: [MissingControllerException] Controller class Font-awesomeController could not be found.
+Exception Attributes: array (
+  'class' => 'Font-awesomeController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/font-awesome/css/font-awesome.min.css
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 21:22:04 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 21:22:10 Error: [MissingControllerException] Controller class ImagesController could not be found.
+Exception Attributes: array (
+  'class' => 'ImagesController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/images/fav.png
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 21:22:18 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 21:25:02 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 21:25:13 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 21:25:44 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 21:26:53 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 21:27:05 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 21:27:09 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 15:27:19 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'price' cannot be null
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Model\Datasource\DboSource.php(458): PDOStatement->execute(Array)
+#1 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Model\Datasource\DboSource.php(424): DboSource->_execute('INSERT INTO `e-...', Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Model\Datasource\DboSource.php(1012): DboSource->execute('INSERT INTO `e-...')
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Model\Model.php(1854): DboSource->create(Object(Payment), Array, Array)
+#4 C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php(12): Model->save(Array)
+#5 [internal function]: PaymentsController->index()
+#6 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Controller\Controller.php(490): ReflectionMethod->invokeArgs(Object(PaymentsController), Array)
+#7 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Routing\Dispatcher.php(191): Controller->invokeAction(Object(CakeRequest))
+#8 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Routing\Dispatcher.php(165): Dispatcher->_invoke(Object(PaymentsController), Object(CakeRequest))
+#9 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
+2017-01-15 21:27:52 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 21:29:06 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 21:29:20 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 21:54:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 21:55:13 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 21:55:30 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 21:57:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 16:36:47 Error: Fatal Error (1): Class 'Paypal' not found in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 19]
+2017-01-15 16:36:47 Error: [FatalErrorException] Class 'Paypal' not found
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'Paypal' ...', 'C:\\xampp\\htdocs...', 19)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Paypal' ...', 'C:\\xampp\\htdocs...', 19, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'Paypal' ...', 'C:\\xampp\\htdocs...', 19, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 16:42:05 Error: Fatal Error (1): Class 'Paypal' not found in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 19]
+2017-01-15 16:42:05 Error: [FatalErrorException] Class 'Paypal' not found
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'Paypal' ...', 'C:\\xampp\\htdocs...', 19)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Paypal' ...', 'C:\\xampp\\htdocs...', 19, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'Paypal' ...', 'C:\\xampp\\htdocs...', 19, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 16:42:06 Error: Fatal Error (1): Class 'Paypal' not found in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 19]
+2017-01-15 16:42:06 Error: [FatalErrorException] Class 'Paypal' not found
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'Paypal' ...', 'C:\\xampp\\htdocs...', 19)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Paypal' ...', 'C:\\xampp\\htdocs...', 19, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 1, 'Class 'Paypal' ...', 'C:\\xampp\\htdocs...', 19, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 22:43:47 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 22:43:53 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 22:47:02 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 22:48:23 Error: Fatal Error (4): syntax error, unexpected '$this' (T_VARIABLE), expecting ',' or ';' in [C:\xampp\htdocs\e-commerce\Controller\PaymentsController.php, line 19]
+2017-01-15 22:48:23 Error: [FatalErrorException] syntax error, unexpected '$this' (T_VARIABLE), expecting ',' or ';'
+Request URL: /e-commerce/payments
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Error\ErrorHandler.php(203): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 19)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 19, Array)
+#2 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'C:\\xampp\\htdocs...', 19, Array)
+#3 C:\xampp\htdocs\e-commerce\cakephp\lib\Cake\Core\App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2017-01-15 22:48:54 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 22:49:24 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 22:49:54 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 22:50:49 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 22:50:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 22:51:07 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 22:51:43 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 22:52:14 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 22:52:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 22:52:56 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 22:53:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 22:53:27 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 22:54:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 22:55:01 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 22:56:58 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 22:58:38 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 23:09:03 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 23:09:25 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 23:09:42 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 23:14:21 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2017-01-15 23:15:17 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /e-commerce/css/bootstrap.min.css.map
+Stack Trace:
+#0 C:\xampp\htdocs\e-commerce\webroot\index.php(109): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
